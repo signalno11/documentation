@@ -190,8 +190,9 @@ To access an order in the register, click it, then click :guilabel:`Load Order`.
      the total number of pages, and click :guilabel:`Ok`.
    - Click the :icon:`fa-trash` (:guilabel:`trash`) icon next to an :guilabel:`Active` order to
      delete it.
-   - If using :ref:`presets <pos/restaurant/orders/preset>`, click one to view the related orders.
-     Click it again to return to the main overview.
+   - Group orders by :doc:`presets <extra/presets>`, if applicable. To do so, click the
+     :icon:`fa-search` :guilabel:`Search` bar, open the :guilabel:`Custom Group`
+     :icon:`fa-caret-down` drop-down, and select :guilabel:`Preset`.
 
 .. _pos/use/refund:
 
@@ -227,8 +228,8 @@ To refund a returned product, follow these steps:
       - Selecting the returned product(s) from the POS register and setting a negative quantity
         equal to the number of returned items. To do so, click :guilabel:`Qty` and :guilabel:`+/-`,
         and update the quantity accordingly.
-      - Selecting the returned product(s) from the POS register and a :ref:`preset
-        <pos/restaurant/orders/preset>` set up for the return mode.
+      - Selecting the returned product(s) from the POS register and a :doc:`preset
+        <extra/presets>` set up for the return mode.
       - Accessing the POS dashboard, navigating to :menuselection:`Point of Sale --> Orders -->
         Orders`, selecting an order, and clicking :guilabel:`Return Products`.
 

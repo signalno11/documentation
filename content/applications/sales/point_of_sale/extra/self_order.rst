@@ -171,6 +171,9 @@ Additional settings
             Once connected to the IoT box, the touchscreen display appears as two separate
             devices in the IoT box's list of devices: a display and a keyboard input device.
 
+.. tip::
+   Configure :doc:`presets <presets>` to use them in self-ordering mode.
+
 Preview
 -------
 
